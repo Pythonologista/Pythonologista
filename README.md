@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pythonologista
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python with OOP abd DSA
-- 💞️ I’m looking to collaborate on any Python project
+- 🌱 I’m currently learning Python with OOP and DSA
+- 💞️ I’m looking to collaborate on any Django Python project
 - 📫 How to reach me ... DM me
 
 <!---
